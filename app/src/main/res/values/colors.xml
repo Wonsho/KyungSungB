@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#3F4A60</color><!--버튼 색-->
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kyungsung1">#02247A</color>
+    <color name="kyungsung2">#0037BF</color>
+    <color name="backcolor" >#ededed</color>
+    <color name="main_1" >#feba4d</color>
+    <color name="main_2" >#6ca7eb</color>
+    <color name="main_3" >#3b7bdc</color>
+</resources>
